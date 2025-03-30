@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name="streamlit-grid",
-    version="0.1.0",
+    version="0.1.2",
     author="Syeda Hoorain Ali",
     author_email="jagjets133@gmail.com",
     description="Streamlit component that allows you to create interactive grid layouts in your Streamlit apps.",
