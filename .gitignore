@@ -1,0 +1,30 @@
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.tar.gz
+*.zip
+
+# Node.js dependencies
+node_modules/
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.parcel-cache/
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.iml
